@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class HelloWorld{
+public class Prompt{
 
     public static void main(String args[]){
         
